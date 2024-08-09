@@ -1,6 +1,6 @@
 # EnDerCry AI
 
-![Project Logo](public/NillionHealthLogo.png) 
+![Project Logo](public/NillionHealtLogo.png) 
 
 EnDerCry is a program that demonstrates the power of blind computation in a healthcare setting. Making use of Nillion's multiparty computation, the program provides a breast cancer image classification test performed over multiple health providers.
 
