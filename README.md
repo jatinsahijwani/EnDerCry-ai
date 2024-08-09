@@ -40,9 +40,9 @@ The diagram illustrates the program's demo. There are two primary sections, a te
 - [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic) - The dataset used in the program is related to diagnostic imaging data focused on breast cancer classification. As included in the site's information, the features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. It describes characteristics of the cell nuclei present in the image.
 
 ## ✅ Files
-- [Main Python Program](nillion-python-starter/healthcare_imaging_compute)
-- [Nillion Nada Program](nillion-python-starter/programs/healthcare_imaging_compute.py)
-- [Dataset](nillion-python-starter/healthcare_imaging_compute/data)
+- Main Python Program
+- Nillion Nada Program
+- Dataset
 
 ## ✅ Setup
 
